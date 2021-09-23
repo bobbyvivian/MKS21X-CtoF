@@ -1,11 +1,11 @@
 public class CtoFTester {
 
-  /* celsiusToFahrenheit():
+  /*
+  celsiusToFahrenheit():
   parameter should be in degrees celsius as a double,
   the function should return the temperature in fahrenheit as a double
-  */
 
-  /* fahrenheitToCelsius():
+  fahrenheitToCelsius():
   parameter should be in degrees fahrenheit as a double,
   the function should return the temperature in celsius as a double
   */
