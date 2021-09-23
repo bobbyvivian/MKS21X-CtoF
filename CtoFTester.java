@@ -27,7 +27,4 @@ public class CtoFTester {
     System.out.println(fahrenheitToCelsius(-40));
     System.out.println(fahrenheitToCelsius(212));
   }
-
-
-
 }
